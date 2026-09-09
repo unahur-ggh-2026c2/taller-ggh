@@ -176,12 +176,6 @@ Los próximos módulos irán agregando nuevas piezas.
 
 ## Actividades
 
-### Guía docente
-
-Orientaciones para la implementación del módulo:
-
-**[00 — Guía del Docente](00-Guia-Docente.md)**
-
 ### Práctica
 
 Actividad guiada para crear y explorar nuestro primer repositorio:

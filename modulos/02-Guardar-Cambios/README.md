@@ -337,10 +337,6 @@ Pero, sobre todo:
 
 ## Actividades
 
-### Guía docente
-
-**[00 — Guía del Docente](00-Guia-Docente.md)**
-
 ### Práctica
 
 **[01 — Práctica](01-Practica.md)**
